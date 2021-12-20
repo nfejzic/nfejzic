@@ -20,9 +20,8 @@ I'm especially interested in Compilers and Symbolic Execution.
 #### Interests 🤔
 
 I'm very interested in Rust programming language, and am actively seeking opportunities to contribute to projects written in Rust!
-Important to mention, I'm still at the beginner stage, but I'm getting there! 
 
-Note: Getting a job offer to work with Rust would be awesome! 
+**Note:** I'm currently open for job offers as a Rust programmer. 
 
 #### Contact 📫
 
