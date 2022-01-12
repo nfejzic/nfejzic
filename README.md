@@ -1,6 +1,6 @@
 ### Hi! 👋
 
-Thank you for visiting my GitHub Profile! Here is some info about me, in case you wanted to know!
+Thank you for visiting my GitHub Profile! Here is some info about me!
 
 #### Work 🔭
 
