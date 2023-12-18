@@ -4,7 +4,7 @@ Thank you for visiting my GitHub Profile! Here is some info about me!
 
 #### Work 🔭
 
-I’m currently working as a Full Stack Engineer remotely at [Idana by Tomes](https://idana.com/) in Germany. I'm working with nodeJs, TypeScript, Vue and more.
+I’m currently working as a Full Stack Engineer remotely at [Idana](https://idana.com/) in Germany. I'm working with nodeJs, TypeScript, Vue and more.
 
 Due to my studies, I work only part-time at the moment. Balancing work and education would be otherwise very hard, if not impossible.
 
