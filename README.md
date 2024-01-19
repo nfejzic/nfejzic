@@ -21,6 +21,3 @@ and [ribbon](https://github.com/nfejzic/ribbon).
 #### Contact 📫
 
 You can reach me here on Github, per e-mail: [nadirfejzo@gmail.com](mailto:nadirfejzo@gmail.com) or [LinkedIn](https://www.linkedin.com/in/nfejzic).
-
-<a href="https://www.buymeacoffee.com/nfejzic" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-
