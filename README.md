@@ -8,7 +8,7 @@ I’m currently working as a Full Stack Engineer remotely at [Idana](https://ida
 
 #### Education 🌱
 
-At the moment I'm working on my bachelor thesis involving compilers, systems engineering and symbolic execution at the Computer Science department 
+At the moment I'm working on my bachelor thesis involving compilers, systems engineering and bounded model checking at the Computer Science department 
 of the Paris Lodron University in Salzburg, Austria.
 
 #### Interests 🤔
