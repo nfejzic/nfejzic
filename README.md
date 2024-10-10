@@ -4,12 +4,15 @@ Thank you for visiting my GitHub Profile!
 
 #### Work 🔭
 
-I’m currently working as a Full Stack Engineer remotely at [Idana](https://idana.com/) in Germany with nodeJs, TypeScript, Vue, Go and more.
+I’m currently working as a Embedded Software Engineer at [Commend](https://www.commend.com/) in Austria where I have the opportunity to 
+work on amazing projects in Rust.
 
 #### Education 🌱
 
-At the moment I'm working on my bachelor thesis involving compilers, systems engineering and bounded model checking at the Computer Science department 
-of the Paris Lodron University in Salzburg, Austria.
+I graduated my Bachelor degree in Computer Science at the Computer Science department of the Paris Lodron University in Salzburg, Austria. 
+My bachelor thesis "Exploring Reasoning Performance of RISC-V Software Models in BTOR2" can be found in the repository of the 
+[selfie project](https://github.com/cksystemsteaching/selfie/blob/main/theses/bachelor_thesis_fejzic.pdf). The thesis was awarded by the 
+company [teampool](https://www.teampool.com/) as one of the three best bachelor theses of our department in the academic year 2023/24. 
 
 #### Interests 🤔
 
@@ -20,4 +23,4 @@ and [ribbon](https://github.com/nfejzic/ribbon).
 
 #### Contact 📫
 
-You can reach me here on Github, per e-mail: [nadirfejzo@gmail.com](mailto:nadirfejzo@gmail.com) or [LinkedIn](https://www.linkedin.com/in/nfejzic).
+You can reach me here on Github, per e-mail: [nadir@notfloor.com](mailto:nadir@notfloor.com) or [LinkedIn](https://www.linkedin.com/in/nfejzic).
