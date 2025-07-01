@@ -4,7 +4,7 @@ Thank you for visiting my GitHub Profile!
 
 #### Work 🔭
 
-I’m currently working as a Embedded Software Engineer at [Commend](https://www.commend.com/) in Austria where I have the opportunity to 
+I’m currently working as a Software Engineer at [Helsing](https://helsing.ai/) in Munich, Germany where I have the opportunity to 
 work on amazing projects in Rust.
 
 #### Education 🌱
