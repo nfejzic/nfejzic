@@ -16,7 +16,7 @@ company [teampool](https://www.teampool.com/) as one of the three best bachelor 
 
 #### Interests 🤔
 
-My special interest is the [Rust](https://www.rust-lang.org/) programming language. Currently working with [@kfejzicl](https://github.com/kfejzic) 
+My special interest is the [Rust](https://www.rust-lang.org/) programming language. Currently working with [@kfejzic](https://github.com/kfejzic) 
 on a set of Rust crates for generating PDF documents called [pediferrous](https://github.com/pediferrous/pediferrous/)
 Some other projects I wrote are [mathemascii](https://github.com/nfejzic/mathemascii), [alemat](https://github.com/nfejzic/alemat) 
 and [ribbon](https://github.com/nfejzic/ribbon).
